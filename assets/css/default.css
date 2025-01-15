@@ -1,0 +1,77 @@
+/*---------------------------------------
+    - Margin & Padding - reduced for the demo
+-----------------------------------------*/
+/*-- Margin Top --*/
+
+.mt-50 {
+  margin-top: 50px; }
+/*-- Margin Bottom --*/
+
+.mb-20 {
+  margin-bottom: 20px; }
+
+.mb-25 {
+  margin-bottom: 25px; }
+
+.mb-30 {
+  margin-bottom: 30px; }
+
+.mb-35 {
+  margin-bottom: 35px; }
+
+.mb-40 {
+  margin-bottom: 40px; }
+
+.mb-50 {
+  margin-bottom: 50px; }
+
+.mb-55 {
+  margin-bottom: 55px; }
+
+.mb-80 {
+  margin-bottom: 80px; }
+
+/*-- Margin Left --*/
+/*-- Margin Right --*/
+/*-- Padding Top --*/
+
+.pt-20 {
+  padding-top: 20px; }
+
+.pt-90 {
+  padding-top: 90px; }
+
+.pt-120 {
+  padding-top: 120px; }
+
+.pt-130 {
+  padding-top: 130px; }
+
+.pt-270 {
+  padding-top: 270px; }
+
+/*-- Padding Bottom --*/
+
+.pb-20 {
+  padding-bottom: 20px; }
+
+.pb-70 {
+  padding-bottom: 70px; }
+
+.pb-75 {
+  padding-bottom: 75px; }
+
+.pb-85 {
+  padding-bottom: 85px; }
+
+.pb-90 {
+  padding-bottom: 90px; }
+
+.pb-120 {
+  padding-bottom: 120px; }
+
+.pb-130 {
+  padding-bottom: 130px; }
+
+/*-- Padding Left --*/
+/*-- Padding Right --*/
